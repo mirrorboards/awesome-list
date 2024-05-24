@@ -49,6 +49,9 @@ A curated list of awesome resources, tools, libraries, and more. This list inclu
 
 ## Articles
 
+### RSC
+- [https://frontendmasters.com/blog/combining-react-server-components-with-react-query-for-easy-data-management](https://frontendmasters.com/blog/combining-react-server-components-with-react-query-for-easy-data-management)
+
 ### OVH
 - [https://help.ovhcloud.com/csm/en-gb-public-cloud-kubernetes-create-cluster-with-pulumi?id=kb_article_view&sysparm_article=KB0059714](https://help.ovhcloud.com/csm/en-gb-public-cloud-kubernetes-create-cluster-with-pulumi?id=kb_article_view&sysparm_article=KB0059714)
 
