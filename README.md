@@ -38,13 +38,14 @@ A curated list of awesome resources, tools, libraries, and more. This list inclu
 ### Kubernetes
 
 #### Commands
-
 - curlimages/curl
   - `kubectl run -it --rm --restart=Never --image=curlimages/curl tester -- curl http://axxxxxxm.axxxxxxm.svc.cluster.local:8095`
 
 ## Nix
-
 - [nix-direnv](https://github.com/nix-community/nix-direnv)
+
+### Flakes
+- [ALT-F4 Nix Flakes Templates](https://github.com/ALT-F4-LLC/kickstart.nix)
 
 ## Articles
 
@@ -54,7 +55,7 @@ A curated list of awesome resources, tools, libraries, and more. This list inclu
 ### AWS
 - [https://medium.com/@akilblanchard09/creating-aws-ec2-instances-with-ssh-access-using-terraform-f9c3c2996cbd](https://medium.com/@akilblanchard09/creating-aws-ec2-instances-with-ssh-access-using-terraform-f9c3c2996cbd)
 
-### pulumi
+### Pulumi
 - [https://www.pulumi.com/ai/answers/cpR2uKykW9mZEr7eWDcShz/deploying-redpanda-operator-on-openshift](https://www.pulumi.com/ai/answers/cpR2uKykW9mZEr7eWDcShz/deploying-redpanda-operator-on-openshift)
 - [https://www.pulumi.com/registry/packages/kubernetes-ingress-nginx/](https://www.pulumi.com/registry/packages/kubernetes-ingress-nginx/)
 - [https://www.pulumi.com/ai/answers/5Gi4bqQLSNQej39X4kTCN7/deploying-local-helm-chart-on-kubernetes](https://www.pulumi.com/ai/answers/5Gi4bqQLSNQej39X4kTCN7/deploying-local-helm-chart-on-kubernetes)
@@ -67,11 +68,6 @@ A curated list of awesome resources, tools, libraries, and more. This list inclu
 
 ### Redis
 - [https://redis.io/learn/howtos/antipatterns](https://redis.io/learn/howtos/antipatterns)
-
-### Flakes
-
-- [ALT-F4 Nix Flakes Templates](https://github.com/ALT-F4-LLC/kickstart.nix)
-
 
 ## License
 
