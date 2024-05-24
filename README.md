@@ -12,6 +12,8 @@ A curated list of awesome resources, tools, libraries, and more. This list inclu
 - [Mirrorboards Developers](#mirrorboards-developers)
     - [Config Files](#config-files)
     - [Kubernetes](#kubernetes)
+- [Nix](#nix)
+    - [Flakes](#flakes)
 
 ## Libraries
 
@@ -25,6 +27,12 @@ A curated list of awesome resources, tools, libraries, and more. This list inclu
 - [sqlfx - Database Connections](https://github.com/mattiamanzati/sqlfx)
 
 ## Mirrorboards Developers
+
+## Nix
+
+### Flakes
+
+- [ALT F4 Nix Flakes](https://github.com/ALT-F4-LLC/kickstart.nix)
 
 ### Docs
 - [mirrorboards/.docs (Core Developers Documentation)](https://github.com/mirrorboards/mirrorboards/tree/main/.docs)
