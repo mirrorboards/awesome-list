@@ -28,12 +28,6 @@ A curated list of awesome resources, tools, libraries, and more. This list inclu
 
 ## Mirrorboards Developers
 
-## Nix
-
-### Flakes
-
-- [ALT F4 Nix Flakes](https://github.com/ALT-F4-LLC/kickstart.nix)
-
 ### Docs
 - [mirrorboards/.docs (Core Developers Documentation)](https://github.com/mirrorboards/mirrorboards/tree/main/.docs)
 
@@ -43,6 +37,13 @@ A curated list of awesome resources, tools, libraries, and more. This list inclu
 ### Kubernetes
 
 #### Commands
+
+## Nix
+
+### Flakes
+
+- [ALT F4 Nix Flakes](https://github.com/ALT-F4-LLC/kickstart.nix)
+
 
 ## License
 
