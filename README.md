@@ -69,6 +69,9 @@ A curated list of awesome resources, tools, libraries, and more. This list inclu
 ### Redis
 - [https://redis.io/learn/howtos/antipatterns](https://redis.io/learn/howtos/antipatterns)
 
+### Nix
+- [https://altf4.blog/blog/2024-02-25-development-environment-winter-2024-edition/](https://altf4.blog/blog/2024-02-25-development-environment-winter-2024-edition/)
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
