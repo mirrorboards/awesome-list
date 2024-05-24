@@ -19,7 +19,7 @@ A curated list of awesome resources, tools, libraries, and more. This list inclu
 
 #### Example repositories
 
-- [sqlfx - Database Connections](git@github.com:mattiamanzati/sqlfx.git)
+- [sqlfx - Database Connections](https://github.com/mattiamanzati/sqlfx)
 
 ## License
 
