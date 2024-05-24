@@ -7,8 +7,13 @@ A curated list of awesome resources, tools, libraries, and more. This list inclu
 
 ## Table of Contents
 
+- [Mirrorboards Developers](#mirrorboards-developers)
 - [Libraries](#libraries)
     - [EffectTS](#effect-ts)
+
+## Mirrorboards Developers
+
+- [github.mirror.yml - github-mirror config file](https://raw.githubusercontent.com/mirrorboards/awesome-list/main/github.mirror.yml)
 
 ## Libraries
 
