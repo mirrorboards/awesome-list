@@ -1,0 +1,71 @@
+react:
+  waku: git@github.com:dai-shi/waku.git
+tanstack:
+  config: git@github.com:TanStack/config.git
+  router: git@github.com:TanStack/router.git
+  query: git@github.com:TanStack/query.git
+  tanstack.com: git@github.com:TanStack/tanstack.com.git
+node:
+  elysia: git@github.com:elysiajs/elysia.git
+  elysia-trpc: git@github.com:elysiajs/elysia-trpc.git
+  trpc: git@github.com:trpc/trpc.git
+ai:
+  TypeChat: git@github.com:microsoft/TypeChat.git
+  langchain: git@github.com:langchain-ai/langchainjs.git
+bullmq: git@github.com:taskforcesh/bullmq.git
+dedent: git@github.com:dmnd/dedent.git
+effect: git@github.com:Effect-TS/effect.git
+effect_examples:
+  content_layer: https://github.com/contentlayerdev/contentlayer
+  durable-workflows-with-effect-cluster: git@github.com:mattiamanzati/durable-workflows-with-effect-cluster.git
+  sqlfx: git@github.com:mattiamanzati/sqlfx.git
+blockchain:
+  ens-contracts: git@github.com:ensdomains/ens-contracts.git
+pulumi:
+  pulumi: git@github.com:pulumi/pulumi.git
+  automation-api-examples: git@github.com:pulumi/automation-api-examples.git
+  pulumi-kubernetes-operator: git@github.com:pulumi/pulumi-kubernetes-operator.git
+minio:
+  minio: git@github.com:minio/minio.git
+  operator: git@github.com:minio/operator.git
+redis:
+  node-redis: git@github.com:redis/node-redis.git
+  redis-insights: git@github.com:RedisInsight/RedisInsight.git
+telegram:
+  gib-hug-bot: git@github.com:vrumger/GibHugBot.git
+  grammy: git@github.com:grammyjs/grammY.git
+vercel:
+  ai: git@github.com:vercel/ai.git
+  next: git@github.com:vercel/next.js.git
+  turbo: git@github.com:vercel/turbo.git
+veramo: git@github.com:decentralized-identity/veramo.git
+web5:
+  dwn-sdk-js: git@github.com:TBD54566975/dwn-sdk-js.git
+  dwn-server: git@github.com:TBD54566975/dwn-server.git
+  web5-js: git@github.com:TBD54566975/web5-js.git
+zod: git@github.com:colinhacks/zod.git
+valibot: git@github.com:fabian-hiller/valibot.git
+R-Squared:
+  R-Squared-core: git@github.com:R-Squared-Project/R-Squared-core.git
+  R-Squared-portal: git@github.com:R-Squared-Project/R-Squared-portal.git
+  R-Squared-report: git@github.com:R-Squared-Project/R-Squared-report.git
+  R-Squared-js: git@github.com:R-Squared-Project/R-Squared-js.git
+  R-Squaredjs-ws: git@github.com:R-Squared-Project/R-Squaredjs-ws.git
+  fast-compiling: git@github.com:R-Squared-Project/fast-compiling.git
+  secp256k1-zkp: git@github.com:R-Squared-Project/secp256k1-zkp.git
+  SmartContract: git@github.com:R-Squared-Project/SmartContract.git
+  EES: git@github.com:R-Squared-Project/EES.git
+  ws-pp-library: git@github.com:R-Squared-Project/ws-pp-library.git
+Revolution-Populi:
+  revpop-core: git@github.com:Revolution-Populi/revpop-core.git
+  revpop-js: git@github.com:Revolution-Populi/revpop-js.git
+  SmartContract: git@github.com:Revolution-Populi/SmartContract.git
+  revpop-samples: git@github.com:Revolution-Populi/revpop-samples.git
+  revpop-report: git@github.com:Revolution-Populi/revpop-report.git
+  revpopjs-ws: git@github.com:Revolution-Populi/revpopjs-ws.git
+  revpop-tools: git@github.com:Revolution-Populi/revpop-tools.git
+  revpop-web3portal: git@github.com:Revolution-Populi/revpop-web3portal.git
+  EES: git@github.com:Revolution-Populi/EES.git
+  fc: git@github.com:Revolution-Populi/fc.git
+  websocketpp: git@github.com:Revolution-Populi/websocketpp.git
+  token-sale-contracts: git@github.com:Revolution-Populi/token-sale-contracts.git
