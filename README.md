@@ -40,9 +40,11 @@ A curated list of awesome resources, tools, libraries, and more. This list inclu
 
 ## Nix
 
+- [nix-direnv](https://github.com/nix-community/nix-direnv)
+
 ### Flakes
 
-- [ALT F4 Nix Flakes](https://github.com/ALT-F4-LLC/kickstart.nix)
+- [ALT-F4 Nix Flakes Templates](https://github.com/ALT-F4-LLC/kickstart.nix)
 
 
 ## License
