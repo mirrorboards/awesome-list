@@ -26,6 +26,9 @@ A curated list of awesome resources, tools, libraries, and more. This list inclu
 
 ## Mirrorboards Developers
 
+### Docs
+- [mirrorboards/.docs (Core Developers Documentation)](https://github.com/mirrorboards/mirrorboards/tree/main/.docs)
+
 ### Config Files
 - [github.mirror.yml](https://raw.githubusercontent.com/mirrorboards/awesome-list/main/github.mirror.yml)
 
