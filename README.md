@@ -7,13 +7,11 @@ A curated list of awesome resources, tools, libraries, and more. This list inclu
 
 ## Table of Contents
 
-- [Mirrorboards Developers](#mirrorboards-developers)
 - [Libraries](#libraries)
     - [EffectTS](#effect-ts)
-
-## Mirrorboards Developers
-
-- [github.mirror.yml - github-mirror config file](https://raw.githubusercontent.com/mirrorboards/awesome-list/main/github.mirror.yml)
+- [Mirrorboards Developers](#mirrorboards-developers)
+    - [Config Files](#config-files)
+    - [Kubernetes](#kubernetes)
 
 ## Libraries
 
@@ -25,6 +23,15 @@ A curated list of awesome resources, tools, libraries, and more. This list inclu
 #### Example repositories
 
 - [sqlfx - Database Connections](https://github.com/mattiamanzati/sqlfx)
+
+## Mirrorboards Developers
+
+### Config Files
+- [github.mirror.yml](https://raw.githubusercontent.com/mirrorboards/awesome-list/main/github.mirror.yml)
+
+### Kubernetes
+
+#### Commands
 
 ## License
 
