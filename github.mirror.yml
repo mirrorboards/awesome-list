@@ -1,5 +1,4 @@
-react:
-  waku: git@github.com:dai-shi/waku.git
+waku: git@github.com:dai-shi/waku.git
 tanstack:
   config: git@github.com:TanStack/config.git
   router: git@github.com:TanStack/router.git
@@ -9,6 +8,9 @@ node:
   elysia: git@github.com:elysiajs/elysia.git
   elysia-trpc: git@github.com:elysiajs/elysia-trpc.git
   trpc: git@github.com:trpc/trpc.git
+  trpc-openapi: git@github.com:jlalmes/trpc-openapi.git
+  trpc-panel: git@github.com:iway1/trpc-panel.git
+  trpc-uwebsocket: git@github.com:romanzy313/trpc-uwebsockets.git
 ai:
   TypeChat: git@github.com:microsoft/TypeChat.git
   langchain: git@github.com:langchain-ai/langchainjs.git
@@ -24,7 +26,13 @@ blockchain:
 pulumi:
   pulumi: git@github.com:pulumi/pulumi.git
   automation-api-examples: git@github.com:pulumi/automation-api-examples.git
+  examples: git@github.com:pulumi/examples.git
   pulumi-kubernetes-operator: git@github.com:pulumi/pulumi-kubernetes-operator.git
+  pulumi-docker: git@github.com:pulumi/pulumi-docker.git
+  pulumi-kubernetes: git@github.com:pulumi/pulumi-kubernetes.git
+  pulumi-kubernetesx: git@github.com:pulumi/pulumi-kubernetesx.git
+  pulumi-kubernetes-cert-manager: git@github.com:pulumi/pulumi-kubernetesx.git
+  pulumi-ovh: git@github.com:ovh/pulumi-ovh.git
 minio:
   minio: git@github.com:minio/minio.git
   operator: git@github.com:minio/operator.git
@@ -34,6 +42,7 @@ redis:
 telegram:
   gib-hug-bot: git@github.com:vrumger/GibHugBot.git
   grammy: git@github.com:grammyjs/grammY.git
+  telegram-web-a: git@github.com:Ajaxy/telegram-tt.git
 vercel:
   ai: git@github.com:vercel/ai.git
   next: git@github.com:vercel/next.js.git
@@ -45,6 +54,11 @@ web5:
   web5-js: git@github.com:TBD54566975/web5-js.git
 zod: git@github.com:colinhacks/zod.git
 valibot: git@github.com:fabian-hiller/valibot.git
+bitshares:
+  dev.bitshares.works: git@github.com:bitshares/dev.bitshares.works.git
+  how.bitshares.works: git@github.com:bitshares/how.bitshares.works.git
+  bitshares-core: git@github.com:bitshares/bitshares-core.git
+  bitshares-ui: git@github.com:bitshares/bitshares-ui.git
 R-Squared:
   R-Squared-core: git@github.com:R-Squared-Project/R-Squared-core.git
   R-Squared-portal: git@github.com:R-Squared-Project/R-Squared-portal.git
@@ -69,3 +83,46 @@ Revolution-Populi:
   fc: git@github.com:Revolution-Populi/fc.git
   websocketpp: git@github.com:Revolution-Populi/websocketpp.git
   token-sale-contracts: git@github.com:Revolution-Populi/token-sale-contracts.git
+unjs:
+  automd: git@github.com:unjs/automd.git
+medusa:
+  medusa-starter-default: git@github.com:medusajs/medusa-starter-default.git
+  medusa: git@github.com:medusajs/medusa.git
+  nextjs-starter-medusa: git@github.com:medusajs/nextjs-starter-medusa.git
+  docker-medusa: git@github.com:medusajs/docker-medusa.git
+bun: git@github.com:oven-sh/bun.git
+commander.js: git@github.com:tj/commander.js.git
+inquirer.js: git@github.com:SBoudrias/Inquirer.js.git
+firecracker: git@github.com:firecracker-microvm/firecracker.git
+tsup: git@github.com:egoist/tsup.git
+tsx: git@github.com:privatenumber/tsx.git
+uniswap:
+  uniswap-v3-core: git@github.com:Uniswap/v3-core.git
+zustand: git@github.com:pmndrs/zustand.git
+yargs: git@github.com:yargs/yargs.git
+typescript:
+  ts-essentials: git@github.com:ts-essentials/ts-essentials.git
+  ts-belt: git@github.com:mobily/ts-belt.git
+tunnel-rat: git@github.com:pmndrs/tunnel-rat.git
+twitter:
+  the-algorithm: git@github.com:twitter/the-algorithm.git
+telnyx:
+  demo-node-telnyx: git@github.com:team-telnyx/demo-node-telnyx.git
+siwe: git@github.com:spruceid/siwe.git
+siwe-quickstart: git@github.com:spruceid/siwe-quickstart.git
+shadcn-ui: git@github.com:shadcn-ui/ui.git
+react-query: git@github.com:TanStack/query.git
+react-grid-layout: git@github.com:react-grid-layout/react-grid-layout.git
+openzeppelin-subrgraphs: git@github.com:OpenZeppelin/openzeppelin-subgraphs.git
+oclif: git@github.com:oclif/oclif.git
+metamask:
+  core: git@github.com:MetaMask/core.git
+  metamask-extension: git@github.com:MetaMask/metamask-extension.git
+k9s: git@github.com:derailed/k9s.git
+hono:
+  middleware: git@github.com:honojs/middleware.git
+helm:
+  helm-ipfs-cluster: git@github.com:monaparty/helm-ipfs-cluster.git
+helia-exampoes: git@github.com:ipfs-examples/helia-examples.git
+hardhat: git@github.com:NomicFoundation/hardhat.git
+envsafe: git@github.com:KATT/envsafe.git
