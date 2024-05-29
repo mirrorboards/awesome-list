@@ -26,6 +26,7 @@ A curated list of awesome resources, tools, libraries, and more. This list inclu
 #### Example repositories
 
 - [sqlfx - Database Connections](https://github.com/mattiamanzati/sqlfx)
+- [https://github.com/SandroMaglione/effect-getting-started](https://github.com/SandroMaglione/effect-getting-started)
 
 ## Mirrorboards Developers
 
