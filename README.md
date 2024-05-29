@@ -79,6 +79,9 @@ A curated list of awesome resources, tools, libraries, and more. This list inclu
 ### RAG
 - ["I want Llama3 to perform 10x with my private knowledge" - Local Agentic RAG w/ llama3](https://www.youtube.com/watch?v=u5Vcrwpzoz8)
 
+### Medusa
+- [https://blog.perseides.org/](https://blog.perseides.org/)
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
