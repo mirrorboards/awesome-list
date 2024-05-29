@@ -11,6 +11,7 @@ A curated list of awesome resources, tools, libraries, and more. This list inclu
     - [EffectTS](#effect-ts)
 - [Mirrorboards Developers](#mirrorboards-developers)
     - [Config Files](#config-files)
+    - [Bash scripts](#bash-scripts)
     - [Kubernetes](#kubernetes)
 - [Nix](#nix)
     - [Flakes](#flakes)
@@ -35,6 +36,10 @@ A curated list of awesome resources, tools, libraries, and more. This list inclu
 
 ### Config Files
 - [github.mirror.yml](https://raw.githubusercontent.com/mirrorboards/awesome-list/main/github.mirror.yml)
+
+### Bash scripts
+- [https://github.com/lunacrafts/github.sh/blob/main/github.sh](https://github.com/lunacrafts/github.sh/blob/main/github)
+- [https://github.com/lunacrafts/hyperconfig/blob/main/hyperconfig.sh](https://github.com/lunacrafts/hyperconfig/blob/main/hyperconfig.sh)
 
 ### Kubernetes
 
