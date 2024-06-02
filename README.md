@@ -46,6 +46,10 @@ A curated list of awesome resources, tools, libraries, and more. This list inclu
 #### Commands
 - curlimages/curl
   - `kubectl run -it --rm --restart=Never --image=curlimages/curl tester -- curl http://axxxxxxm.axxxxxxm.svc.cluster.local:8095`
+ 
+#### Docker registry
+- [https://github.com/twuni/docker-registry.helm](https://github.com/twuni/docker-registry.helm)
+- [https://kb.leaseweb.com/products/kubernetes/deploying-a-docker-registry-on-kubernetes](https://kb.leaseweb.com/products/kubernetes/deploying-a-docker-registry-on-kubernetes)
 
 ## Nix
 - [nix-direnv](https://github.com/nix-community/nix-direnv)
