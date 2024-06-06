@@ -91,6 +91,9 @@ A curated list of awesome resources, tools, libraries, and more. This list inclu
 ### Medusa
 - [https://blog.perseides.org/](https://blog.perseides.org/)
 
+### Awesome lists
+- [https://github.com/anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
